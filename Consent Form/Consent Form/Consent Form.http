@@ -1,0 +1,6 @@
+@Consent_Form_HostAddress = http://localhost:5073
+
+GET {{Consent_Form_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
